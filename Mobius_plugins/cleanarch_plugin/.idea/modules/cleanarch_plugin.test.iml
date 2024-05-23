@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="cleanarch_plugin:test" external.linked.project.path="$MODULE_DIR$/../.." external.root.project.path="$MODULE_DIR$/../.." external.system.id="GRADLE" external.system.module.group="com.github.azharkova.cleanarch_plugin" external.system.module.type="sourceSet" external.system.module.version="1.0.0" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet external-system-id="GRADLE" type="kotlin-language" name="Kotlin">
+      <configuration version="5" platform="JVM 17" allPlatforms="JVM [17]" useProjectSettings="false">
+        <additionalVisibleModuleNames>cleanarch_plugin:main</additionalVisibleModuleNames>
+        <compilerArguments>
+          <flagArguments>
+            <flagArg name="allowNoSourceFiles" arg="true" />
+            <flagArg name="noReflect" arg="true" />
+            <flagArg name="noStdlib" arg="true" />
+          </flagArguments>
+          <stringArguments>
+            <stringArg name="destination" arg="$MODULE_DIR$/../../build/classes/kotlin/test" />
+            <stringArg name="jvmTarget" arg="17" />
+            <stringArg name="moduleName" arg="cleanarch_plugin_test" />
+            <stringArg name="apiVersion" arg="1.9" />
+            <stringArg name="languageVersion" arg="1.9" />
+          </stringArguments>
+          <arrayArguments>
+            <arrayArg name="pluginClasspaths">
+              <args>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-scripting-jvm/1.9.21/39be7444439f0a9db3b2d5dd175f3b54f4a714d1/kotlin-scripting-jvm-1.9.21.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-scripting-common/1.9.21/8213aed8eac445b515678dbb407193b9da983038/kotlin-scripting-common-1.9.21.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.9.21/17ee3e873d439566c7d8354403b5f3d9744c4c9c/kotlin-stdlib-1.9.21.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-script-runtime/1.9.21/f5ff679bd666f7f2376209fff998b775b7b701c7/kotlin-script-runtime-1.9.21.jar</arg>
+              </args>
+            </arrayArg>
+            <arrayArg name="pluginOptions" />
+          </arrayArguments>
+        </compilerArguments>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager">
+    <output-test url="file://$MODULE_DIR$/../../build/classes/kotlin/test" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../src/test">
+      <sourceFolder url="file://$MODULE_DIR$/../../src/test/kotlin" isTestSource="true" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="cleanarch_plugin.main" />
+    <orderEntry type="library" name="Gradle: org.jetbrains:annotations:24.0.1" level="project" />
+    <orderEntry type="module-library">
+      <library name="Gradle: unzipped.com.jetbrains.plugins:java:unzipped.com.jetbrains.plugins:android-studio-AI-231.9392.1.2311.11330709">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/java/lib/debugger-memory-agent.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/java/lib/aether-dependency-resolver.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/java/lib/java-impl.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/java/lib/javac2.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/java/lib/jb-jdi.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/java/lib/jgoodies-common.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/java/lib/jps-builders.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/java/lib/jps-builders-6.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/java/lib/jps-javac-extension.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/java/lib/jps-launcher.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/java/lib/jshell-frontend.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/java/lib/jshell-protocol.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/java/lib/sa-jdwp.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Gradle: unzipped.com.jetbrains.plugins:android:unzipped.com.jetbrains.plugins:android-studio-AI-231.9392.1.2311.11330709">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/android/lib/aapt2-proto-0.3.1.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/android/lib/HdrHistogram-2.1.12.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/android/lib/adt-ui.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/android/lib/android.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/android/lib/android-base-common.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/android/lib/android-common.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/android/lib/android-extensions-ide.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/android/lib/android-gradle.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/android/lib/android-kotlin.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/android/lib/android-profilers.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/android/lib/android-project-system-gradle-models.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/android/lib/android-rt.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/android/lib/animation-core-desktop-1.3.1.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/android/lib/animation-desktop-1.3.1.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/android/lib/artwork.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/android/lib/asm-9.3.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/android/lib/asm-analysis-9.3.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/android/lib/asm-commons-9.3.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/android/lib/asm-tree-9.3.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/android/lib/asm-util-9.3.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/android/lib/auto-common-0.10.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/android/lib/backgroundtask_inspector_java_proto.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/android/lib/build-analysis-results-proto.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/android/lib/build-common.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/android/lib/common_proto.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/android/lib/commons-lang-2.6.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/android/lib/compilerCommon.antlr.shaded_jar.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/android/lib/compilerCommon.antlr_runtime.shaded_jar.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/android/lib/core-3.5.0.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/android/lib/data-binding.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/android/lib/deploy_java_proto.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/android/lib/emulator_java_proto.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/android/lib/explainer.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/android/lib/ffmpeg-6.0-1.5.9.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/android/lib/ffmpeg-6.0-1.5.9-macosx-arm64.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/android/lib/ffmpeg-platform-6.0-1.5.9.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/android/lib/flatbuffers-java-1.12.0.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/android/lib/foundation-desktop-1.3.1.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/android/lib/foundation-layout-desktop-1.3.1.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/android/lib/game-tools.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/android/lib/game-tools-protos.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/android/lib/generator.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/android/lib/google-analytics-library.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/android/lib/google-api-client-2.2.0.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/android/lib/google-api-services-oauth2-v2-rev20200213-2.0.0.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/android/lib/google-auth-library-oauth2-http-1.4.0.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/android/lib/google-http-client-1.42.3.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/android/lib/google-http-client-gson-1.42.3.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/android/lib/google-login.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/android/lib/google-oauth-client-1.34.1.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/android/lib/google-oauth-client-java6-1.34.1.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/android/lib/inspectors-common.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/android/lib/instantapps-api-1.8.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/android/lib/jarutils.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/android/lib/javacpp-1.5.9.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/android/lib/javacpp-1.5.9-macosx-arm64.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/android/lib/javacpp-platform-1.5.9.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/android/lib/javapoet-1.10.0.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/android/lib/javax.inject-1.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/android/lib/javax.servlet-api-3.0.1.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/android/lib/jetifier-core-1.0.0-beta10.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/android/lib/jetty-6.1.26.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/android/lib/jetty-util-6.1.26.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/android/lib/jsr305-2.0.1.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/android/lib/juniversalchardet-1.0.3.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/android/lib/kotlin_multiplatform_android_models_proto.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/android/lib/kotlinx-coroutines-guava-1.6.4.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/android/lib/kxml2-2.3.0.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/android/lib/layout_inspector_compose_java_proto.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/android/lib/layout_inspector_skia_java_proto.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/android/lib/layout_inspector_snapshot_java_proto.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/android/lib/layout_inspector_view_java_proto.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/android/lib/layoutlib-api.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/android/lib/layoutlib-loader.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/android/lib/libam-instrumentation-data-proto.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/android/lib/libandroid-core-proto.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/android/lib/libapp-processes-proto.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/android/lib/libjava_sites.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/android/lib/libjava_version.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/android/lib/liblint-checks-proto.lib.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/android/lib/libstudio.android-test-plugin-host-device-info-proto.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/android/lib/libstudio.android-test-plugin-host-retention-proto.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/android/lib/libstudio.android-test-plugin-result-listener-gradle-proto.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/android/lib/libstudio.proto.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/android/lib/libversion.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/android/lib/lint-ide.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/android/lib/manifest-merger.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/android/lib/material-desktop-1.3.1.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/android/lib/material-icons-core-desktop-1.3.1.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/android/lib/material-ripple-desktop-1.3.1.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/android/lib/memory-usage.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/android/lib/network_inspector_java_proto.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/android/lib/opencensus-api-0.31.1.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/android/lib/opencensus-contrib-http-util-0.31.1.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/android/lib/org.eclipse.elk.alg.layered-0.3.0.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/android/lib/org.eclipse.elk.core-0.3.0.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/android/lib/org.eclipse.elk.graph-0.3.0.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/android/lib/org.eclipse.emf.common-2.12.0.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/android/lib/org.eclipse.emf.ecore-2.12.0.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/android/lib/pepk.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/android/lib/perfetto-protos.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/android/lib/pixelprobe.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/android/lib/play_vitals_java_proto.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/android/lib/proto.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/android/lib/r8.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/android/lib/repository.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/android/lib/runtime-desktop-1.3.1.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/android/lib/runtime-saveable-desktop-1.3.1.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/android/lib/sdk-common.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/android/lib/sdk-tools.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/android/lib/sdklib.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/android/lib/shared.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/android/lib/skiko-awt-0.7.55.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/android/lib/skiko-awt-runtime-linux-x64-0.7.55.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/android/lib/skiko-awt-runtime-macos-arm64-0.7.55.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/android/lib/skiko-awt-runtime-macos-x64-0.7.55.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/android/lib/skiko-awt-runtime-windows-x64-0.7.55.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/android/lib/smali-baksmali-3.0.3.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/android/lib/smali-dexlib2-3.0.3.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/android/lib/smali-util-3.0.3.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/android/lib/sqlite-jdbc-3.34.0.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/android/lib/sqlite_inspector_proto.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/android/lib/studio-grpc.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/android/lib/studio-proto.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/android/lib/tensorflow-lite-metadata-0.1.0-rc2.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/android/lib/traceprocessor_protos.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/android/lib/tracing-perfetto-common-1.0.0-alpha01.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/android/lib/transport_java_proto.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/android/lib/ui-animation-tooling-internal.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/android/lib/ui-desktop-1.3.1.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/android/lib/ui-geometry-desktop-1.3.1.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/android/lib/ui-graphics-desktop-1.3.1.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/android/lib/ui-text-desktop-1.3.1.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/android/lib/ui-unit-desktop-1.3.1.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/android/lib/ui-util-desktop-1.3.1.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/android/lib/utp.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/android/lib/utp-core-proto-jarjar.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/android/lib/wizard-template.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/android/lib/workmanager_inspector_proto.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Gradle: unzipped.com.jetbrains.plugins:Kotlin:unzipped.com.jetbrains.plugins:android-studio-AI-231.9392.1.2311.11330709">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/Kotlin/lib/javax-inject.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/Kotlin/lib/javaslang.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/Kotlin/lib/kotlin-base-jps.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/Kotlin/lib/kotlin-gradle-tooling.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/Kotlin/lib/kotlin-plugin.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/Kotlin/lib/kotlinc-lib.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/Kotlin/lib/kotlinc.allopen-compiler-plugin.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/Kotlin/lib/kotlinc.android-extensions-compiler-plugin.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/Kotlin/lib/kotlinc.assignment-compiler-plugin.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/Kotlin/lib/kotlinc.kotlin-compiler-common.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/Kotlin/lib/kotlinc.kotlin-compiler-fe10.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/Kotlin/lib/kotlinc.kotlin-compiler-ir.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/Kotlin/lib/kotlinc.kotlin-jps-common.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/Kotlin/lib/kotlinc.kotlinx-serialization-compiler-plugin.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/Kotlin/lib/kotlinc.lombok-compiler-plugin.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/Kotlin/lib/kotlinc.noarg-compiler-plugin.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/Kotlin/lib/kotlinc.parcelize-compiler-plugin.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/Kotlin/lib/kotlinc.sam-with-receiver-compiler-plugin.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/Kotlin/lib/kotlinx-collections-immutable.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="library" name="Gradle: unzipped.com.jetbrains.plugins:platform-images:unzipped.com.jetbrains.plugins:android-studio-AI-231.9392.1.2311.11330709" level="project" />
+    <orderEntry type="module-library">
+      <library name="Gradle: unzipped.com.jetbrains.plugins:junit:unzipped.com.jetbrains.plugins:android-studio-AI-231.9392.1.2311.11330709">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/junit/lib/junit-rt.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/junit/lib/idea-junit.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/junit/lib/junit5-rt.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="library" name="Gradle: unzipped.com.jetbrains.plugins:properties:unzipped.com.jetbrains.plugins:android-studio-AI-231.9392.1.2311.11330709" level="project" />
+    <orderEntry type="library" name="Gradle: unzipped.com.jetbrains.plugins:webp:unzipped.com.jetbrains.plugins:android-studio-AI-231.9392.1.2311.11330709" level="project" />
+    <orderEntry type="module-library">
+      <library name="Gradle: unzipped.com.jetbrains.plugins:gradle:unzipped.com.jetbrains.plugins:android-studio-AI-231.9392.1.2311.11330709">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/gradle/lib/gradle-api-8.0.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/gradle/lib/gradle.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/gradle/lib/gradle-api-impldep-8.0.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/gradle/lib/gradle-launcher-8.0.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/gradle/lib/gradle-tooling-extension-api.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/gradle/lib/gradle-tooling-extension-impl.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/gradle/lib/gradle-wrapper-8.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Gradle: unzipped.com.jetbrains.plugins:gradle-java:unzipped.com.jetbrains.plugins:android-studio-AI-231.9392.1.2311.11330709">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/gradle-java/lib/gradle-jps.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/gradle-java/lib/gradle-java.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Gradle: unzipped.com.jetbrains.plugins:Groovy:unzipped.com.jetbrains.plugins:android-studio-AI-231.9392.1.2311.11330709">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/Groovy/lib/groovy-constants-rt.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/Groovy/lib/Groovy.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/Groovy/lib/groovy-jps.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/Groovy/lib/groovy-rt.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/Groovy/lib/groovy-rt-class-loader.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/Groovy/lib/groovy-spock-rt.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="library" name="Gradle: unzipped.com.jetbrains.plugins:smali:unzipped.com.jetbrains.plugins:android-studio-AI-231.9392.1.2311.11330709" level="project" />
+    <orderEntry type="library" name="Gradle: unzipped.com.jetbrains.plugins:toml:unzipped.com.jetbrains.plugins:android-studio-AI-231.9392.1.2311.11330709" level="project" />
+    <orderEntry type="module-library">
+      <library name="Gradle: unzipped.com.jetbrains.plugins:platform-langInjection:unzipped.com.jetbrains.plugins:android-studio-AI-231.9392.1.2311.11330709">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/platform-langInjection/lib/java-langInjection-jps.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/platform-langInjection/lib/IntelliLang.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/platform-langInjection/lib/platform-langInjection.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Gradle: com.jetbrains:android-studio:2023.1.1.28">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/lib/3rd-party-rt.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/lib/3rd-party-native.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/lib/ant/lib/ant.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/lib/app.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/lib/byte-buddy-agent.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/lib/error-prone-annotations.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/lib/external-system-rt.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/lib/externalProcess-rt.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/lib/forms_rt.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/lib/groovy.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/lib/idea_rt.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/lib/intellij-coverage-agent-1.0.706.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/lib/intellij-test-discovery.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/lib/jps-model.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/lib/junit4.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/lib/protobuf.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/lib/rd.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/lib/resources.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/lib/stats.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/lib/testFramework.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/lib/util.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/lib/util-8.jar!/" />
+          <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/lib/util_rt.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+  <component name="TestModuleProperties" production-module="cleanarch_plugin.main" />
+</module>

@@ -1,0 +1,11 @@
+@Composable
+fun TestComposable() {
+  AndroidView {
+  factory = {Test(context = context},
+  modifier = modifier,
+  update = {
+  view.apply {}
+  viewConfig()
+  }
+  }
+}

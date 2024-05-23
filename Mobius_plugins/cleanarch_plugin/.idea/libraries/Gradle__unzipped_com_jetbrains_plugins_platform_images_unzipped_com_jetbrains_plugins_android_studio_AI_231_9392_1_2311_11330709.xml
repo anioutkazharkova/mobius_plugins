@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: unzipped.com.jetbrains.plugins:platform-images:unzipped.com.jetbrains.plugins:android-studio-AI-231.9392.1.2311.11330709" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="unzipped.com.jetbrains.plugins" artifactId="platform-images" version="android-studio-AI-231.9392.1.2311.11330709" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.studio/android-studio/2023.1.1.28/65bd7df3246893e4e0d3d4d21b6cdcfe404d6934/android-studio-2023.1.1.28/plugins/platform-images/lib/platform-images.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
